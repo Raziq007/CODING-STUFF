@@ -1,0 +1,136 @@
+@charset "utf-8";
+body {background-color:#E8DDCA;}
+
+#Logo 
+{
+    padding: 15px 10px 25px 50px;
+    float:left;
+}
+#Icon 
+{
+    padding: 20px 20px 20px 20px;
+    float:right;
+}
+
+#Content 
+{
+    clear:both;
+    border-top:Solid black 1px;
+    border-bottom:solid black 1px;
+    margin:40px 50px 00px 50px;
+    padding: 16px 00px;
+}
+
+#Content a 
+{
+    font-family:Arial;
+    color:black;
+    margin: 10px 0px 0px 10px;
+    text-decoration: none;
+    padding: 20px 00px;
+}
+
+#Content a:hover 
+{
+    color:orange;
+}
+
+#Title
+{
+    font-family:Arial;
+    color:orange;
+    
+}
+
+#Title img 
+{
+    padding:00px 50px;
+}
+
+
+#Title h1 
+{
+    font-size:21px;
+    border-bottom:solid black 1px; 
+    margin: 10px 50px 00px 50px;
+}
+
+
+#Leftcontent 
+{
+    font: size 10px;
+    margin: 0px 00px 20px 40px;
+    float:left;
+    width:680px;
+}
+
+#Leftcontent img 
+{
+    border:solid black 1px; 
+    margin: 00px 0px 0px 20px;
+    padding: 5px 5px 5px 5px
+}
+
+
+#Leftcontent p 
+{
+    font-family:Arial;
+    font-size: 13px;
+}
+
+#Kotak 
+{
+    background-color: white;
+    margin:0px auto 0px 
+    auto;width: 1000px;
+}
+
+
+#box 
+{
+    width:950; 
+    background-color:white; 
+    margin: 0px auto 0px auto;
+}
+
+
+#Rightcontent h2 
+{
+    font-size:20px;
+}
+
+
+#Rightcontent h3 
+{
+    font-size:20px;
+}
+
+
+#BottomContent p
+{
+    border-top:solid black 1px;
+    font-family:Arial;
+    clear:both;
+    text-align: center;
+    font-size:13px;
+    padding: 10px;
+    margin: 30px 50px 30px 50px;
+}
+
+#Rooms h1
+{
+    float:left;
+    width: 250px;
+    margin-left: 25px;
+    margin-bottom: 30px;
+    font-size:20px;
+    font-family: Arial;    
+}
+
+#Rooms p
+{
+    clear:both;
+    font-size:10px;
+    font-family: Arial;
+    margin-left:20px;
+}
